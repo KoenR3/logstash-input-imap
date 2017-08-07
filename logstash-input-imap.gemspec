@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'mail', '~> 2.6.3'
   s.add_runtime_dependency 'yomu', '~> 0.2.4'
   s.add_runtime_dependency 'httparty', '~> 0.14.0'
+  s.add_runtime_dependency 'hipchat', '~> 1.6'
 
   s.add_development_dependency 'logstash-devutils'
 end
